@@ -1,32 +1,112 @@
 {
   "version": 1,
-  "base_track": "終わり",
+  "base_track": "手",
   "base_artist": "原口沙輔",
-  "createdAt": "2026-01-04T05:11:30.081689Z",
+  "createdAt": "2026-01-08T07:19:21.341172Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "終わり",
-      "artist": "SHISHAMO",
+      "title": "手",
+      "artist": "莫文蔚",
       "has_synced": true,
-      "path": "select/01_終わり_SHISHAMO.lrc"
+      "path": "select/01_手_莫文蔚.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "終わり - Owari",
-      "artist": "SHISHAMO",
+      "title": "Is It over Now? (\"手\"DEMO / 原唱:莫文蔚)",
+      "artist": "Tanya Chua",
+      "has_synced": true,
+      "path": "select/02_Is_It_over_Now__(_手_DEMO___原唱_莫文蔚)_Tanya_Chua.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "手",
+      "artist": "Karen Mok",
+      "has_synced": true,
+      "path": "select/03_手_Karen_Mok.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "斗 牛   水 手 怕 水   大 笨 钟",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/04_斗_牛_水_手_怕_水_大_笨_钟_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "手 语",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/05_手_语_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "手 - Te",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/06_手_-_Te_CreepHyp.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "手",
+      "artist": "伍佰",
       "has_synced": false,
-      "path": "select/02_終わり_-_Owari_SHISHAMO.txt"
+      "path": "select/07_手_伍佰.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "手 (“雙面對決” Live)",
+      "artist": "伍佰 & China Blue",
+      "has_synced": false,
+      "path": "select/08_手_(“雙面對決”_Live)_伍佰_&_China_Blue.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "手",
+      "artist": "王菀之",
+      "has_synced": true,
+      "path": "select/09_手_王菀之.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "手",
+      "artist": "伍佰 & China Blue",
+      "has_synced": true,
+      "path": "select/10_手_伍佰_&_China_Blue.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "つないだ手",
+      "artist": "Lil'B",
+      "has_synced": true,
+      "path": "select/11_つないだ手_Lil'B.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "手.心 (feat.林一峰)",
+      "artist": "胡琳",
+      "has_synced": true,
+      "path": "select/12_手.心_(feat.林一峰)_胡琳.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "終わり",
+      "title": "手",
       "artist": "原口沙輔",
       "has_synced": false,
-      "path": "select/pl_01_終わり_原口沙輔.txt"
+      "path": "select/pl_01_手_原口沙輔.txt"
     }
   ]
 }
